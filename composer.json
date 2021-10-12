@@ -1,5 +1,5 @@
 {
-  "name": "orchid/platform",
+  "name": "rutatiina/orchid-platform",
   "description": "Platform for back-office applications, admin panel or CMS your Laravel app.",
   "keywords": [
     "framework",
@@ -23,17 +23,10 @@
   },
   "authors": [
     {
-      "name": "Alexandr Chernyaev",
-      "email": "bliz48rus@gmail.com",
-      "homepage": "https://tabuna.github.io",
+      "name": "Rutatiina Gilbert",
+      "email": "rutatiina@gmail.com",
       "role": "Developer"
     }
-  ],
-  "funding": [
-      {
-          "type": "opencollective",
-          "url": "https://opencollective.com/orchid"
-      }
   ],
   "require": {
       "ext-json": "*",
